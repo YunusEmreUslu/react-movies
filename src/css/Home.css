@@ -1,11 +1,11 @@
 .home {
-  padding: 2rem 0;
+  padding: 1rem 0;
   width: 100%;
   box-sizing: border-box;
 }
 
 .search-form {
-  max-width: 600px;
+  max-width: 400px;
   margin: 0 auto 2rem;
   display: flex;
   gap: 1rem;
@@ -29,8 +29,8 @@
 }
 
 .search-button {
-  padding: 0.75rem 1.5rem;
-  background-color: #e50914;
+  padding: 0.5rem 1rem;
+  background-color: #646cff;
   color: white;
   border-radius: 4px;
   font-weight: 500;
@@ -39,7 +39,7 @@
 }
 
 .search-button:hover {
-  background-color: #f40612;
+  background-color: #484db8;
 }
 
 @media (max-width: 639px) {
